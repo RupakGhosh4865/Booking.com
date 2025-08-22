@@ -2,6 +2,14 @@
 
 A full-stack appointment booking application for a small clinic built with modern web technologies.
 
+<img width="1898" height="965" alt="Image" src="https://github.com/user-attachments/assets/c38679b6-431c-4235-9d67-596b4802b038" />
+
+<img width="1887" height="958" alt="Image" src="https://github.com/user-attachments/assets/d235a980-423b-4075-80f4-9deabf1fda13" />
+
+<img width="1902" height="959" alt="Image" src="https://github.com/user-attachments/assets/7a797aa2-ad43-4094-b677-262af50a6de0" />
+
+<img width="1904" height="950" alt="Image" src="https://github.com/user-attachments/assets/600d12de-059b-42f8-8291-fa59022be41d" />
+
 ## Tech Stack
 
 - **Frontend**: React + Vite, Tailwind CSS
